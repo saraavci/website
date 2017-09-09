@@ -1,0 +1,44 @@
+﻿.wrapper {
+    width: 1350px;
+    height: 1199px;
+    float: left;
+    background: #302f2f;
+}
+
+header {
+    height: 45px;
+    width: 1350px;
+    background-color: #ffffff;
+    text-align: center;
+    line-height: 45px;
+    color: black;
+}
+
+.sayfa1 {
+    float: left;
+    width: 385px;
+    height: 1000px;
+    background-color: #a5c8ec;
+    font-size: 45px;
+    color: blueviolet;
+    border-right: 2px solid black;
+}
+
+.sayfa2 {
+    float: left;
+    height: 1000px;
+    width: 450px;
+    background-color: #a5c8ec;
+    font-size: 45px;
+    color: blueviolet;
+    border-right: 2px solid black;
+}
+
+.sayfa3 {
+    float: left;
+    width: 500px;
+    height: 1000px;
+    background-color: #a5c8ec;
+    font-size: 45px;
+    color: blueviolet;
+}
